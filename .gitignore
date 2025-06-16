@@ -1,1 +1,5 @@
-
+target/*
+!target/sbf-solana-solana/release/my_program.so
+Cargo.lock
+solana-release/
+*.tar.bz2
